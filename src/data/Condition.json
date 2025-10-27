@@ -1,0 +1,13 @@
+[
+    {
+      "resourceType": "Condition",
+      "id": "ConditionExample",
+      "code": {
+        "coding": [
+          { "system": "http://snomed.info/sct", "code": "195967001", "display": "Asthma" }
+        ]
+      },
+      "subject": { "reference": "Patient/PatientExample" }
+    }
+  ]
+  

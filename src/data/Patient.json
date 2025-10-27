@@ -1,0 +1,13 @@
+{
+    "resourceType": "Patient",
+    "id": "PatientExample",
+    "name": [
+      { "given": ["John"], "family": "Doe" }
+    ],
+    "extension": [
+      { "url": "http://example.org/fhir/StructureDefinition/occupation", "valueString": "Factory Worker" },
+      { "url": "http://example.org/fhir/StructureDefinition/exposure-history", "valueString": "Exposure to dust at workplace" },
+      { "url": "http://example.org/fhir/StructureDefinition/exposure-history", "valueString": "Second-hand smoke at home" }
+    ]
+  }
+  
