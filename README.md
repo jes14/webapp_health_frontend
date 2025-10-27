@@ -17,14 +17,14 @@ You will also see any lint errors in the console.
 ### Screenshot
 
 ![function_1](./assets/function1.png)
-On the main screen, you can see a list of existing patients.
+- On the main screen, you can see a list of existing patients.
 
 <br>
 
 ![function_2](./assets/function2.png)
-When you click a patient, detailed information appears — including their conditions and encounters.
+- When you click a patient, detailed information appears — including their conditions and encounters.
 
 <br>
 
-![function_2](./assets/function2.png)
-You can add new patients, and then add related conditions and encounters.
+![function_3](./assets/function3.png)
+- You can add new patients, and then add related conditions and encounters.
