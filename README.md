@@ -4,7 +4,8 @@ This project was bootstrapped with [Create react app](https://github.com/faceboo
 
 ##  Scripts
 
-In the project directory, you can run:
+First, run the related [backend code](https://github.com/jes14/webapp_health_backend). Then, in the project directory, you can run:
+
 
 ### `npm start`
 
