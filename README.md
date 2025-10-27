@@ -13,3 +13,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### Screenshot
+
+![function_1](./assets/function1.png)
+![function_2](./assets/function2.png)
+![function_2](./assets/function2.png)
